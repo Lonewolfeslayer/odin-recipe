@@ -1,1 +1,2 @@
 # odin-recipe
+The Goal of this Project is create a recipe page using HTML to create a Recipe Page for Ackee and Saltfish, a comfort food of mine. There is three mains goals. One, complete the project as per Odin's Project specifications. Two, get comfortable with HTML boilerplates. Three, make sure to add good commits.
